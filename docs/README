@@ -1,0 +1,8 @@
+trivial doc generator
+
+to create documentation on existing EXO_Fitting classes do:
+root -q -b MakeDocs.C
+the output will be put in htmlout/
+run from the docs directory
+
+

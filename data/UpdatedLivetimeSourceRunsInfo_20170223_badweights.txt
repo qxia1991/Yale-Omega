@@ -1,0 +1,4760 @@
+AverageActivity : 124.56548146
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 12kV cathode. 
+EndTime : 2016-05-17 00:21:30
+EndTimeSec : 1463444490
+Exposure : 7518882760000
+HighVoltage : 12
+IntegratedActivity : 936856.986062
+ManualFlag : NONE
+Purity : 2.52014939221
+Quality : NOT-SET
+RunNumber : 7112
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 11
+SourcePositionX : 0.4
+SourcePositionY : 25.5
+SourcePositionZ : 1.8
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-16 22:16:09
+StartTimeSec : 1463436969
+TimeInterval : 7521
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.554834453
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 12kV cathode. 
+EndTime : 2016-05-17 02:23:47
+EndTimeSec : 1463451827
+Exposure : 7314930796000
+HighVoltage : 12
+IntegratedActivity : 911367.723691
+ManualFlag : NONE
+Purity : 2.44546551506
+Quality : NOT-SET
+RunNumber : 7113
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 11
+SourcePositionX : 0.4
+SourcePositionY : 25.5
+SourcePositionZ : 1.8
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-17 00:21:50
+StartTimeSec : 1463444510
+TimeInterval : 7317
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.544347206
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 12kV cathode. 
+EndTime : 2016-05-17 04:25:59
+EndTimeSec : 1463459159
+Exposure : 7322804288000
+HighVoltage : 12
+IntegratedActivity : 912287.343282
+ManualFlag : NONE
+Purity : 2.22992569198
+Quality : NOT-SET
+RunNumber : 7114
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 11
+SourcePositionX : 0.4
+SourcePositionY : 25.5
+SourcePositionZ : 1.8
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-17 02:23:54
+StartTimeSec : 1463451834
+TimeInterval : 7325
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.533933103
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 12kV cathode. 
+EndTime : 2016-05-17 06:26:18
+EndTimeSec : 1463466378
+Exposure : 7205809821000
+HighVoltage : 12
+IntegratedActivity : 897640.589808
+ManualFlag : NONE
+Purity : 2.19747631183
+Quality : NOT-SET
+RunNumber : 7115
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 11
+SourcePositionX : 0.4
+SourcePositionY : 25.5
+SourcePositionZ : 1.8
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-17 04:26:10
+StartTimeSec : 1463459170
+TimeInterval : 7208
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.523681553
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 12kV cathode. 
+EndTime : 2016-05-17 08:24:53
+EndTimeSec : 1463473493
+Exposure : 7106841589000
+HighVoltage : 12
+IntegratedActivity : 885238.852158
+ManualFlag : NONE
+Purity : 2.32827625292
+Quality : NOT-SET
+RunNumber : 7116
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 11
+SourcePositionX : 0.4
+SourcePositionY : 25.5
+SourcePositionZ : 1.8
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-17 06:26:24
+StartTimeSec : 1463466384
+TimeInterval : 7109
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.512965879
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 12kV cathode. 
+EndTime : 2016-05-17 10:35:59
+EndTimeSec : 1463481359
+Exposure : 7859696869000
+HighVoltage : 12
+IntegratedActivity : 978920.937738
+ManualFlag : NONE
+Purity : 2.81648255086
+Quality : NOT-SET
+RunNumber : 7117
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 11
+SourcePositionX : 0.4
+SourcePositionY : 25.5
+SourcePositionZ : 1.8
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-17 08:24:57
+StartTimeSec : 1463473497
+TimeInterval : 7862
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.499944367
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 12kV cathode. 
+EndTime : 2016-05-17 13:28:19
+EndTimeSec : 1463491699
+Exposure : 10336415296000
+HighVoltage : 12
+IntegratedActivity : 1287080.42486
+ManualFlag : NONE
+Purity : 2.74754880499
+Quality : NOT-SET
+RunNumber : 7118
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 11
+SourcePositionX : 0.4
+SourcePositionY : 25.5
+SourcePositionZ : 1.8
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-17 10:36:01
+StartTimeSec : 1463481361
+TimeInterval : 10338
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.484790769
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 12kV cathode. 
+EndTime : 2016-05-17 16:29:00
+EndTimeSec : 1463502540
+Exposure : 10831519640000
+HighVoltage : 12
+IntegratedActivity : 1348543.7384
+ManualFlag : NONE
+Purity : 2.70682487976
+Quality : NOT-SET
+RunNumber : 7119
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 11
+SourcePositionX : 0.4
+SourcePositionY : 25.5
+SourcePositionZ : 1.8
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-17 13:28:27
+StartTimeSec : 1463491707
+TimeInterval : 10833
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.469066171
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : calibration campaign. location is S8 (+1'' from red/green mark) + 16 cm. intention is for S8+16cm. this mark is green, but it alternates in this tape: S2 green, S5 red, S8 green, S11 red, etc
+EndTime : 2016-05-17 19:02:22
+EndTimeSec : 1463511742
+Exposure : 7246718247000
+HighVoltage : 12
+IntegratedActivity : 902276.260671
+ManualFlag : NONE
+Purity : 2.01919238043
+Quality : NOT-SET
+RunNumber : 7121
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 8
+SourcePositionX : 2.5
+SourcePositionY : 0.23
+SourcePositionZ : 29.5
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-17 17:01:33
+StartTimeSec : 1463504493
+TimeInterval : 7249
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.458653358
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : calibration campaign. secon run at location S8 (+1'' from red/green mark) + 16 cm. intention is for S8+16cm. this mark is green, but it alternates in this tape: S2 green, S5 red, S8 green, S11 red, etc
+EndTime : 2016-05-17 21:03:34
+EndTimeSec : 1463519014
+Exposure : 7228965466000
+HighVoltage : 12
+IntegratedActivity : 899960.522433
+ManualFlag : NONE
+Purity : 2.67796493219
+Quality : GOLDEN
+RunNumber : 7122
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 0
+SourcePositionX : 0.0
+SourcePositionY : 0.0
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-17 19:03:03
+StartTimeSec : 1463511783
+TimeInterval : 7231
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.447837455
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : calibration campaign. wTh @ S8 (+1'' from red/green mark).
+EndTime : 2016-05-17 23:09:27
+EndTimeSec : 1463526567
+Exposure : 7206296617000
+HighVoltage : 12
+IntegratedActivity : 897268.90805
+ManualFlag : NONE
+Purity : 2.31843088841
+Quality : GOLDEN
+RunNumber : 7123
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 8
+SourcePositionX : 2.5
+SourcePositionY : 0.23
+SourcePositionZ : 29.5
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-17 21:09:17
+StartTimeSec : 1463519357
+TimeInterval : 7210
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.43657139
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : calibration campaign. wTh @ S5 (+1'' from red/green mark). Overnight run, lights off.
+EndTime : 2016-05-18 01:27:06
+EndTimeSec : 1463534826
+Exposure : 7965415571000
+HighVoltage : 12
+IntegratedActivity : 991759.473978
+ManualFlag : NONE
+Purity : 2.34283153022
+Quality : GOLDEN
+RunNumber : 7124
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-17 23:14:16
+StartTimeSec : 1463526856
+TimeInterval : 7970
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.425573684
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : calibration campaign. wTh @ S5 (+1'' from red/green mark). Overnight run, lights off.
+EndTime : 2016-05-18 03:30:27
+EndTimeSec : 1463542227
+Exposure : 7385919520000
+HighVoltage : 12
+IntegratedActivity : 919256.138381
+ManualFlag : NONE
+Purity : 2.72626694671
+Quality : GOLDEN
+RunNumber : 7125
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-18 01:27:19
+StartTimeSec : 1463534839
+TimeInterval : 7388
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.414956508
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : calibration campaign. wTh @ S5 (+1'' from red/green mark). Overnight run, lights off.
+EndTime : 2016-05-18 05:34:41
+EndTimeSec : 1463549681
+Exposure : 7441243731000
+HighVoltage : 12
+IntegratedActivity : 926020.521287
+ManualFlag : NONE
+Purity : 3.09805557906
+Quality : GOLDEN
+RunNumber : 7126
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-18 03:30:38
+StartTimeSec : 1463542238
+TimeInterval : 7443
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.404566802
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : calibration campaign. wTh @ S5 (+1'' from red/green mark). Overnight run, lights off.
+EndTime : 2016-05-18 07:32:47
+EndTimeSec : 1463556767
+Exposure : 7071297034000
+HighVoltage : 12
+IntegratedActivity : 880659.928389
+ManualFlag : NONE
+Purity : 2.55866584475
+Quality : GOLDEN
+RunNumber : 7127
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-18 05:34:48
+StartTimeSec : 1463549688
+TimeInterval : 7079
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.394152957
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : calibration campaign. wTh @ S5 (+1'' from red/green mark). Overnight run, lights off.
+EndTime : 2016-05-18 09:37:35
+EndTimeSec : 1463564255
+Exposure : 7482619632000
+HighVoltage : 12
+IntegratedActivity : 930965.840727
+ManualFlag : NONE
+Purity : 2.09530013689
+Quality : GOLDEN
+RunNumber : 7128
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-18 07:32:51
+StartTimeSec : 1463556771
+TimeInterval : 7484
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.383648507
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : calibration campaign. wTh @ S5 (+1'' from red/green mark). Overnight run, lights off.
+EndTime : 2016-05-18 11:37:44
+EndTimeSec : 1463571464
+Exposure : 7201512665000
+HighVoltage : 12
+IntegratedActivity : 895935.420199
+ManualFlag : NONE
+Purity : 2.7063799491
+Quality : GOLDEN
+RunNumber : 7129
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-18 09:37:41
+StartTimeSec : 1463564261
+TimeInterval : 7203
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.371803062
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : calibration campaign. wTh @ S5 (+1'' from red/green mark). Overnight run, lights off.
+EndTime : 2016-05-18 14:13:54
+EndTimeSec : 1463580834
+Exposure : 9364397790000
+HighVoltage : 12
+IntegratedActivity : 1164866.30748
+ManualFlag : NONE
+Purity : 2.59779031553
+Quality : GOLDEN
+RunNumber : 7130
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-18 11:37:48
+StartTimeSec : 1463571468
+TimeInterval : 9366
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.358993464
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : calibration campaign. wTh @ S5 (+1'' from red/green mark). Overnight run, lights off.
+EndTime : 2016-05-18 16:36:18
+EndTimeSec : 1463589378
+Exposure : 8524517192000
+HighVoltage : 12
+IntegratedActivity : 1060284.77827
+ManualFlag : NONE
+Purity : 2.37457711662
+Quality : GOLDEN
+RunNumber : 7131
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-18 14:14:12
+StartTimeSec : 1463580852
+TimeInterval : 8526
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.34648594
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : calibration campaign. S2-8cm. detailed info about location: S2 (+1'' from red/green mark) - 8cm.
+EndTime : 2016-05-18 18:51:23
+EndTimeSec : 1463597483
+Exposure : 7226303076000
+HighVoltage : 12
+IntegratedActivity : 898900.746859
+ManualFlag : NONE
+Purity : 1.86566331297
+Quality : GOLDEN
+RunNumber : 7133
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 0
+SourcePositionX : 0.0
+SourcePositionY : 0.0
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-18 16:50:54
+StartTimeSec : 1463590254
+TimeInterval : 7229
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.33615053
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : calibration campaign. S2-8cm. detailed info about location: S2 (+1'' from red/green mark) - 8cm.
+EndTime : 2016-05-18 20:51:49
+EndTimeSec : 1463604709
+Exposure : 7211276896000
+HighVoltage : 12
+IntegratedActivity : 896836.65377
+ManualFlag : NONE
+Purity : 2.26642576467
+Quality : GOLDEN
+RunNumber : 7134
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 0
+SourcePositionX : 0.0
+SourcePositionY : 0.0
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-18 18:51:36
+StartTimeSec : 1463597496
+TimeInterval : 7213
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 124.325478842
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : calibration campaign. S2 (+1'' from red/green mark).
+EndTime : 2016-05-18 22:56:15
+EndTimeSec : 1463612175
+Exposure : 7200898141000
+HighVoltage : 12
+IntegratedActivity : 895765.075055
+ManualFlag : NONE
+Purity : 2.10599616193
+Quality : GOLDEN
+RunNumber : 7135
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 2
+SourcePositionX : -2.5
+SourcePositionY : 0.23
+SourcePositionZ : -29.2
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-05-18 20:56:10
+StartTimeSec : 1463604970
+TimeInterval : 7205
+TriggerPrescale : 0
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 2415.78156204
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Source calibration campaign, wCs S5
+EndTime : 2016-05-20 01:30:25
+EndTimeSec : 1463707825
+Exposure : 5352111478000
+HighVoltage : 12
+IntegratedActivity : 12936510.2647
+ManualFlag : NONE
+Purity : 2.30600305447
+Quality : GOLDEN
+RunNumber : 7139
+SourceA : 137
+SourceName : Cs-137
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 055
+StartTime : 2016-05-20 00:01:10
+StartTimeSec : 1463702470
+TimeInterval : 5355
+TriggerPrescale : 1
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 2415.7716375
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Source calibration campaign, wCs S2
+EndTime : 2016-05-20 03:04:16
+EndTimeSec : 1463713456
+Exposure : 5361546907000
+HighVoltage : 12
+IntegratedActivity : 12960614.8352
+ManualFlag : NONE
+Purity : 0.885527163239
+Quality : GOLDEN
+RunNumber : 7140
+SourceA : 137
+SourceName : Cs-137
+SourcePositionS : 2
+SourcePositionX : -2.5
+SourcePositionY : 0.23
+SourcePositionZ : -29.2
+SourceStrength : weak
+SourceZ : 055
+StartTime : 2016-05-20 01:34:51
+StartTimeSec : 1463708091
+TimeInterval : 5365
+TriggerPrescale : 1
+WeekIndex : 244
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 229.431242548
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Source calibration campaign, wRa at S8, aligned to edge of green tape, 4949 deg
+EndTime : 2016-05-21 17:56:34
+EndTimeSec : 1463853394
+Exposure : 6977584938000
+HighVoltage : 12
+IntegratedActivity : 1601430.07299
+ManualFlag : NONE
+Purity : 1.0
+Quality : GOLDEN
+RunNumber : 7144
+SourceA : 226
+SourceName : Ra-226
+SourcePositionS : 8
+SourcePositionX : 2.5
+SourcePositionY : 0.23
+SourcePositionZ : 29.5
+SourceStrength : weak
+SourceZ : 088
+StartTime : 2016-05-21 16:00:14
+StartTimeSec : 1463846414
+TimeInterval : 6980
+TriggerPrescale : 0
+WeekIndex : 245
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 229.431219869
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Source calibration campaign, wRa at S2, aligned to edge of green tape, 3792 deg
+EndTime : 2016-05-21 19:54:07
+EndTimeSec : 1463860447
+Exposure : 6781551838000
+HighVoltage : 12
+IntegratedActivity : 1556920.25803
+ManualFlag : NONE
+Purity : 1.0
+Quality : GOLDEN
+RunNumber : 7145
+SourceA : 226
+SourceName : Ra-226
+SourcePositionS : 2
+SourcePositionX : -2.5
+SourcePositionY : 0.23
+SourcePositionZ : -29.2
+SourceStrength : weak
+SourceZ : 088
+StartTime : 2016-05-21 18:01:01
+StartTimeSec : 1463853661
+TimeInterval : 6786
+TriggerPrescale : 0
+WeekIndex : 245
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 229.43119487
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Source calibration campaign, wRa at S5, aligned to edge of red tape, 4369 deg.  Overnight run, restart every ~250k normal tpc events.
+EndTime : 2016-05-21 22:19:16
+EndTimeSec : 1463869156
+Exposure : 8262787853000
+HighVoltage : 12
+IntegratedActivity : 1897166.55038
+ManualFlag : NONE
+Purity : 1.0
+Quality : GOLDEN
+RunNumber : 7146
+SourceA : 226
+SourceName : Ra-226
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 088
+StartTime : 2016-05-21 20:01:27
+StartTimeSec : 1463860887
+TimeInterval : 8269
+TriggerPrescale : 0
+WeekIndex : 245
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 229.431170292
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Source calibration campaign, wRa at S5, aligned to edge of red tape, 4369 deg.  Overnight run, restart every ~250k normal tpc events.
+EndTime : 2016-05-22 00:20:23
+EndTimeSec : 1463876423
+Exposure : 7243450232000
+HighVoltage : 12
+IntegratedActivity : 1662228.82877
+ManualFlag : NONE
+Purity : 1.0
+Quality : GOLDEN
+RunNumber : 7147
+SourceA : 226
+SourceName : Ra-226
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 088
+StartTime : 2016-05-21 22:19:38
+StartTimeSec : 1463869178
+TimeInterval : 7245
+TriggerPrescale : 0
+WeekIndex : 245
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 229.431147512
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Source calibration campaign, wRa at S5, aligned to edge of red tape, 4369 deg.  Overnight run, restart every ~250k normal tpc events.
+EndTime : 2016-05-22 02:20:33
+EndTimeSec : 1463883633
+Exposure : 7203278069000
+HighVoltage : 12
+IntegratedActivity : 1653051.41782
+ManualFlag : NONE
+Purity : 1.0
+Quality : GOLDEN
+RunNumber : 7148
+SourceA : 226
+SourceName : Ra-226
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 088
+StartTime : 2016-05-22 00:20:28
+StartTimeSec : 1463876428
+TimeInterval : 7205
+TriggerPrescale : 0
+WeekIndex : 245
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 229.431125191
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Source calibration campaign, wRa at S5, aligned to edge of red tape, 4369 deg.  Overnight run, restart every ~250k normal tpc events.
+EndTime : 2016-05-22 04:18:07
+EndTimeSec : 1463890687
+Exposure : 7048374596000
+HighVoltage : 12
+IntegratedActivity : 1617489.4326
+ManualFlag : NONE
+Purity : 1.0
+Quality : GOLDEN
+RunNumber : 7149
+SourceA : 226
+SourceName : Ra-226
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 088
+StartTime : 2016-05-22 02:20:37
+StartTimeSec : 1463883637
+TimeInterval : 7050
+TriggerPrescale : 0
+WeekIndex : 245
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 229.431107269
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Source calibration campaign, wRa at S5, aligned to edge of red tape, 4369 deg.  Overnight run, restart every ~250k normal tpc events.
+EndTime : 2016-05-22 05:30:00
+EndTimeSec : 1463895000
+Exposure : 5690008203000
+HighVoltage : 12
+IntegratedActivity : 987930.347902
+ManualFlag : NONE
+Purity : 0.0
+Quality : GOLDEN
+RunNumber : 7150
+SourceA : 226
+SourceName : Ra-226
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 088
+StartTime : 2016-05-22 04:18:14
+StartTimeSec : 1463890694
+TimeInterval : 4306
+TriggerPrescale : 0
+WeekIndex : 245
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.982516176
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-07 02:52:34
+EndTimeSec : 1465267954
+Exposure : 7249168034000
+HighVoltage : 12
+IntegratedActivity : 884617.207311
+ManualFlag : NONE
+Purity : 0.394515666861
+Quality : GOOD
+RunNumber : 7154
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-07 00:51:42
+StartTimeSec : 1465260702
+TimeInterval : 7252
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.972363239
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-07 04:53:04
+EndTimeSec : 1465275184
+Exposure : 7222419884000
+HighVoltage : 12
+IntegratedActivity : 881128.352039
+ManualFlag : NONE
+Purity : 0.437093118766
+Quality : GOOD
+RunNumber : 7155
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-07 02:52:40
+StartTimeSec : 1465267960
+TimeInterval : 7224
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.962239875
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-07 06:53:21
+EndTimeSec : 1465282401
+Exposure : 7209355517000
+HighVoltage : 12
+IntegratedActivity : 879469.711738
+ManualFlag : NONE
+Purity : 0.462101280931
+Quality : GOOD
+RunNumber : 7156
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-07 04:53:10
+StartTimeSec : 1465275190
+TimeInterval : 7211
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.952127861
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-07 08:53:36
+EndTimeSec : 1465289616
+Exposure : 7206231123000
+HighVoltage : 12
+IntegratedActivity : 879152.889749
+ManualFlag : NONE
+Purity : 0.469657183675
+Quality : GOOD
+RunNumber : 7157
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-07 06:53:27
+StartTimeSec : 1465282407
+TimeInterval : 7209
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.941877273
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-07 10:57:14
+EndTimeSec : 1465297034
+Exposure : 7412260854000
+HighVoltage : 12
+IntegratedActivity : 904077.078099
+ManualFlag : NONE
+Purity : 0.508025438814
+Quality : GOOD
+RunNumber : 7158
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-07 08:53:40
+StartTimeSec : 1465289620
+TimeInterval : 7414
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.931584109
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-07 12:58:25
+EndTimeSec : 1465304305
+Exposure : 7260687110000
+HighVoltage : 12
+IntegratedActivity : 885589.095385
+ManualFlag : NONE
+Purity : 0.572868521
+Quality : GOOD
+RunNumber : 7159
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-07 10:57:22
+StartTimeSec : 1465297042
+TimeInterval : 7263
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.921405992
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-07 14:59:29
+EndTimeSec : 1465311569
+Exposure : 7259170567000
+HighVoltage : 12
+IntegratedActivity : 885271.328907
+ManualFlag : NONE
+Purity : 0.560230059429
+Quality : GOOD
+RunNumber : 7160
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-07 12:58:28
+StartTimeSec : 1465304308
+TimeInterval : 7261
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.910703431
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-07 17:12:58
+EndTimeSec : 1465319578
+Exposure : 7997028300000
+HighVoltage : 12
+IntegratedActivity : 975163.716747
+ManualFlag : NONE
+Purity : 0.591676399966
+Quality : GOOD
+RunNumber : 7161
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-07 14:59:39
+StartTimeSec : 1465311579
+TimeInterval : 7999
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.898629863
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-07 19:46:47
+EndTimeSec : 1465328807
+Exposure : 9216332171000
+HighVoltage : 12
+IntegratedActivity : 1123661.57008
+ManualFlag : NONE
+Purity : 0.636509430404
+Quality : GOOD
+RunNumber : 7162
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-07 17:13:09
+StartTimeSec : 1465319589
+TimeInterval : 9218
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.886203837
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-07 22:08:46
+EndTimeSec : 1465337326
+Exposure : 8509769677000
+HighVoltage : 12
+IntegratedActivity : 1037495.36706
+ManualFlag : NONE
+Purity : 0.657553365385
+Quality : GOOD
+RunNumber : 7163
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-07 19:46:54
+StartTimeSec : 1465328814
+TimeInterval : 8512
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.874273419
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-08 00:30:47
+EndTimeSec : 1465345847
+Exposure : 8514571813000
+HighVoltage : 12
+IntegratedActivity : 1037881.31244
+ManualFlag : NONE
+Purity : 0.751255727441
+Quality : GOOD
+RunNumber : 7164
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-07 22:08:51
+StartTimeSec : 1465337331
+TimeInterval : 8516
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.862388276
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV, ("High DAQ Damaged Frame Rate" alarm right after run starts. Lasted for 2 seconds.)
+EndTime : 2016-06-08 02:51:40
+EndTimeSec : 1465354300
+Exposure : 8444772790000
+HighVoltage : 12
+IntegratedActivity : 1029371.59377
+ManualFlag : NONE
+Purity : 0.755300885917
+Quality : GOOD
+RunNumber : 7165
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-08 00:30:53
+StartTimeSec : 1465345853
+TimeInterval : 8447
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.851290443
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-08 04:55:01
+EndTimeSec : 1465361701
+Exposure : 7395451564000
+HighVoltage : 12
+IntegratedActivity : 901333.995406
+ManualFlag : NONE
+Purity : 0.80266243623
+Quality : GOOD
+RunNumber : 7166
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-08 02:51:44
+StartTimeSec : 1465354304
+TimeInterval : 7397
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.841060926
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-08 06:55:13
+EndTimeSec : 1465368913
+Exposure : 7205853686000
+HighVoltage : 12
+IntegratedActivity : 878230.367155
+ManualFlag : NONE
+Purity : 0.876438259721
+Quality : GOOD
+RunNumber : 7167
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-08 04:55:05
+StartTimeSec : 1465361705
+TimeInterval : 7208
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.830967359
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-08 08:55:21
+EndTimeSec : 1465376121
+Exposure : 7202060660000
+HighVoltage : 12
+IntegratedActivity : 877670.288851
+ManualFlag : NONE
+Purity : 0.90084107696
+Quality : GOOD
+RunNumber : 7168
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-08 06:55:17
+StartTimeSec : 1465368917
+TimeInterval : 7204
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.820853631
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-08 10:56:03
+EndTimeSec : 1465383363
+Exposure : 7236200849000
+HighVoltage : 12
+IntegratedActivity : 881739.33858
+ManualFlag : NONE
+Purity : 0.908111781242
+Quality : GOOD
+RunNumber : 7169
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-08 08:55:25
+StartTimeSec : 1465376125
+TimeInterval : 7238
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.810413929
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-08 13:03:59
+EndTimeSec : 1465391039
+Exposure : 7671296628000
+HighVoltage : 12
+IntegratedActivity : 934651.306077
+ManualFlag : NONE
+Purity : 1.00753992758
+Quality : GOOD
+RunNumber : 7170
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-08 10:56:06
+StartTimeSec : 1465383366
+TimeInterval : 7673
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.799999605
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-08 15:04:05
+EndTimeSec : 1465398245
+Exposure : 7200836380000
+HighVoltage : 12
+IntegratedActivity : 877325.397154
+ManualFlag : NONE
+Purity : 1.09564461529
+Quality : GOOD
+RunNumber : 7171
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-08 13:04:02
+StartTimeSec : 1465391042
+TimeInterval : 7203
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.789909439
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-08 17:04:17
+EndTimeSec : 1465405457
+Exposure : 7205148141000
+HighVoltage : 12
+IntegratedActivity : 877739.877329
+ManualFlag : NONE
+Purity : 1.10993654808
+Quality : GOOD
+RunNumber : 7172
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-08 15:04:10
+StartTimeSec : 1465398250
+TimeInterval : 7207
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.779149159
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-08 19:20:24
+EndTimeSec : 1465413624
+Exposure : 8160124755000
+HighVoltage : 12
+IntegratedActivity : 993961.415437
+ManualFlag : NONE
+Purity : 1.18540361954
+Quality : GOOD
+RunNumber : 7173
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-08 17:04:22
+StartTimeSec : 1465405462
+TimeInterval : 8162
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.771530242
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : ramped to 12kV,
+EndTime : 2016-06-08 20:05:47
+EndTimeSec : 1465416347
+Exposure : 2715760166000
+HighVoltage : 12
+IntegratedActivity : 330975.019198
+ManualFlag : NONE
+Purity : 0.979002774255
+Quality : GOOD
+RunNumber : 7174
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-08 19:20:29
+StartTimeSec : 1465413629
+TimeInterval : 2718
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.638518148
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-06-09 23:07:09
+EndTimeSec : 1465513629
+Exposure : 7050639219000
+HighVoltage : 12
+IntegratedActivity : 857794.829977
+ManualFlag : NONE
+Purity : 1.6534231493
+Quality : SUSPECT
+RunNumber : 7178
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-09 21:09:37
+StartTimeSec : 1465506577
+TimeInterval : 7052
+TriggerPrescale : 0
+WeekIndex : 247
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 121.548046364
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-06-10 17:24:00
+EndTimeSec : 1465579440
+Exposure : 9162170498000
+HighVoltage : 12
+IntegratedActivity : 1113987.84492
+ManualFlag : NONE
+Purity : 1.7224971666
+Quality : GOOD
+RunNumber : 7182
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-10 14:51:15
+StartTimeSec : 1465570275
+TimeInterval : 9165
+TriggerPrescale : 0
+WeekIndex : 248
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 120.928236591
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : just ramped the cathode voltage to 12 kV. s5+1"
+EndTime : 2016-06-15 20:26:56
+EndTimeSec : 1466022416
+Exposure : 5266161677000
+HighVoltage : 12
+IntegratedActivity : 637049.950359
+ManualFlag : NONE
+Purity : 1.29829782986
+Quality : BAD
+RunNumber : 7186
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-15 18:59:08
+StartTimeSec : 1466017148
+TimeInterval : 5268
+TriggerPrescale : 0
+WeekIndex : 248
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 120.822416217
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-06-16 17:52:12
+EndTimeSec : 1466099532
+Exposure : 7117787242000
+HighVoltage : 12
+IntegratedActivity : 860255.603467
+ManualFlag : NONE
+Purity : 1.60652321288
+Quality : GOOD
+RunNumber : 7189
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-16 15:53:32
+StartTimeSec : 1466092412
+TimeInterval : 7120
+TriggerPrescale : 0
+WeekIndex : 248
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 120.709387067
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : weak thorium at s5+1"
+EndTime : 2016-06-17 16:29:09
+EndTimeSec : 1466180949
+Exposure : 7044401709000
+HighVoltage : 12
+IntegratedActivity : 850518.341272
+ManualFlag : NONE
+Purity : 3.73783236315
+Quality : GOOD
+RunNumber : 7192
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-17 14:31:43
+StartTimeSec : 1466173903
+TimeInterval : 7046
+TriggerPrescale : 0
+WeekIndex : 249
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 120.344737718
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-06-20 17:40:01
+EndTimeSec : 1466444401
+Exposure : 7339994103000
+HighVoltage : 12
+IntegratedActivity : 883571.064328
+ManualFlag : NONE
+Purity : 2.36555571139
+Quality : GOOD
+RunNumber : 7199
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-20 15:37:39
+StartTimeSec : 1466437059
+TimeInterval : 7342
+TriggerPrescale : 0
+WeekIndex : 249
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 120.229927078
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : weak Th at S5+1"
+EndTime : 2016-06-21 16:43:41
+EndTimeSec : 1466527421
+Exposure : 7246421815000
+HighVoltage : 12
+IntegratedActivity : 871426.51146
+ManualFlag : NONE
+Purity : 3.67518725267
+Quality : GOOD
+RunNumber : 7203
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-21 14:42:53
+StartTimeSec : 1466520173
+TimeInterval : 7248
+TriggerPrescale : 0
+WeekIndex : 249
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 119.872220344
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-06-24 16:44:14
+EndTimeSec : 1466786654
+Exposure : 7079107294000
+HighVoltage : 12
+IntegratedActivity : 849174.808919
+ManualFlag : NONE
+Purity : 2.82683280186
+Quality : NOT-SET
+RunNumber : 7208
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-24 14:46:10
+StartTimeSec : 1466779570
+TimeInterval : 7084
+TriggerPrescale : 0
+WeekIndex : 250
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 119.515735784
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-06-27 16:44:52
+EndTimeSec : 1467045892
+Exposure : 7158028307000
+HighVoltage : 12
+IntegratedActivity : 855732.668211
+ManualFlag : NONE
+Purity : 4.98220782361
+Quality : NOT-SET
+RunNumber : 7213
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-27 14:45:32
+StartTimeSec : 1467038732
+TimeInterval : 7160
+TriggerPrescale : 0
+WeekIndex : 250
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 119.161108888
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-06-30 15:50:14
+EndTimeSec : 1467301814
+Exposure : 1767057350000
+HighVoltage : 12
+IntegratedActivity : 210796.001624
+ManualFlag : NONE
+Purity : 3.92506147484
+Quality : NOT-SET
+RunNumber : 7220
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-30 15:20:45
+StartTimeSec : 1467300045
+TimeInterval : 1769
+TriggerPrescale : 0
+WeekIndex : 250
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 119.154849083
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Restarted after noticing "High DAQ Damaged Frame Rate alarm. I was cleaning in Mod 1 after starting the calibration run, which is probably what caused the problem.
+EndTime : 2016-06-30 17:51:41
+EndTimeSec : 1467309101
+Exposure : 7196879974000
+HighVoltage : 12
+IntegratedActivity : 857795.758551
+ManualFlag : NONE
+Purity : 2.75122726776
+Quality : NOT-SET
+RunNumber : 7221
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-06-30 15:51:42
+StartTimeSec : 1467301902
+TimeInterval : 7199
+TriggerPrescale : 0
+WeekIndex : 250
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 119.039662177
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-07-01 17:14:07
+EndTimeSec : 1467393247
+Exposure : 7145510157000
+HighVoltage : 12
+IntegratedActivity : 850776.465577
+ManualFlag : NONE
+Purity : 3.09244107297
+Quality : NOT-SET
+RunNumber : 7224
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-07-01 15:15:00
+StartTimeSec : 1467386100
+TimeInterval : 7147
+TriggerPrescale : 0
+WeekIndex : 251
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 118.570119778
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-07-05 16:44:49
+EndTimeSec : 1467737089
+Exposure : 6910407343000
+HighVoltage : 12
+IntegratedActivity : 819556.667909
+ManualFlag : NONE
+Purity : 4.32566436099
+Quality : NOT-SET
+RunNumber : 7234
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-07-05 14:49:37
+StartTimeSec : 1467730177
+TimeInterval : 6912
+TriggerPrescale : 0
+WeekIndex : 251
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 215.270898595
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Co60 S8
+EndTime : 2016-07-06 18:23:06
+EndTimeSec : 1467829386
+Exposure : 7228347024000
+HighVoltage : 12
+IntegratedActivity : 1556408.59685
+ManualFlag : NONE
+Purity : 0.0
+Quality : NOT-SET
+RunNumber : 7238
+SourceA : 060
+SourceName : Co-60
+SourcePositionS : 8
+SourcePositionX : 2.5
+SourcePositionY : 0.23
+SourcePositionZ : 29.5
+SourceStrength : weak
+SourceZ : 027
+StartTime : 2016-07-06 16:22:36
+StartTimeSec : 1467822156
+TimeInterval : 7230
+TriggerPrescale : 0
+WeekIndex : 251
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 215.264230685
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Co60 S5  The last few minutes of the run had the veto panels powered down.
+EndTime : 2016-07-06 20:27:23
+EndTimeSec : 1467836843
+Exposure : 7273629871000
+HighVoltage : 12
+IntegratedActivity : 1566477.8067
+ManualFlag : NONE
+Purity : 0.0
+Quality : NOT-SET
+RunNumber : 7239
+SourceA : 060
+SourceName : Co-60
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 027
+StartTime : 2016-07-06 18:26:06
+StartTimeSec : 1467829566
+TimeInterval : 7277
+TriggerPrescale : 0
+WeekIndex : 251
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 214.889623705
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Co S2
+EndTime : 2016-07-11 16:33:01
+EndTimeSec : 1468254781
+Exposure : 7174423208000
+HighVoltage : 12
+IntegratedActivity : 1542047.93971
+ManualFlag : NONE
+Purity : 0.0
+Quality : NOT-SET
+RunNumber : 7246
+SourceA : 060
+SourceName : Co-60
+SourcePositionS : 2
+SourcePositionX : -2.5
+SourcePositionY : 0.23
+SourcePositionZ : -29.2
+SourceStrength : weak
+SourceZ : 027
+StartTime : 2016-07-11 14:33:25
+StartTimeSec : 1468247605
+TimeInterval : 7176
+TriggerPrescale : 0
+WeekIndex : 252
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 117.858572478
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh at S5
+EndTime : 2016-07-11 17:18:50
+EndTimeSec : 1468257530
+Exposure : 106633825000
+HighVoltage : 12
+IntegratedActivity : 12728.7258276
+ManualFlag : NONE
+Purity : 1.0
+Quality : NOT-SET
+RunNumber : 7248
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-07-11 17:17:02
+StartTimeSec : 1468257422
+TimeInterval : 108
+TriggerPrescale : 0
+WeekIndex : 252
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 117.852664793
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh at S5
+EndTime : 2016-07-11 19:40:30
+EndTimeSec : 1468266030
+Exposure : 8380237780000
+HighVoltage : 12
+IntegratedActivity : 987958.888959
+ManualFlag : NONE
+Purity : 2.40834862616
+Quality : NOT-SET
+RunNumber : 7249
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-07-11 17:20:47
+StartTimeSec : 1468257647
+TimeInterval : 8383
+TriggerPrescale : 0
+WeekIndex : 252
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 117.621560184
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh S5
+EndTime : 2016-07-13 18:58:34
+EndTimeSec : 1468436314
+Exposure : 7290968236000
+HighVoltage : 12
+IntegratedActivity : 857814.038419
+ManualFlag : NONE
+Purity : 2.9897652481
+Quality : NOT-SET
+RunNumber : 7254
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-07-13 16:57:01
+StartTimeSec : 1468429021
+TimeInterval : 7293
+TriggerPrescale : 0
+WeekIndex : 252
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 117.390952612
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Th S5 Daily
+EndTime : 2016-07-15 18:27:09
+EndTimeSec : 1468607229
+Exposure : 7527768762000
+HighVoltage : 12
+IntegratedActivity : 883953.873169
+ManualFlag : NONE
+Purity : 3.94911907363
+Quality : NOT-SET
+RunNumber : 7258
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-07-15 16:21:39
+StartTimeSec : 1468599699
+TimeInterval : 7530
+TriggerPrescale : 0
+WeekIndex : 253
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 117.050185409
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh @ S5. Source was a bit harder to deploy this time, especially tight after S2.
+EndTime : 2016-07-18 16:43:22
+EndTimeSec : 1468860202
+Exposure : 7473596533000
+HighVoltage : 12
+IntegratedActivity : 875067.186117
+ManualFlag : NONE
+Purity : 3.42766568148
+Quality : NOT-SET
+RunNumber : 7265
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-07-18 14:38:46
+StartTimeSec : 1468852726
+TimeInterval : 7476
+TriggerPrescale : 0
+WeekIndex : 253
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 116.813634364
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-07-20 17:38:44
+EndTimeSec : 1469036324
+Exposure : 7599663089000
+HighVoltage : 12
+IntegratedActivity : 888017.248432
+ManualFlag : NONE
+Purity : 2.72941847753
+Quality : NOT-SET
+RunNumber : 7270
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-07-20 15:32:02
+StartTimeSec : 1469028722
+TimeInterval : 7602
+TriggerPrescale : 0
+WeekIndex : 253
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 116.589659821
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-07-22 15:02:53
+EndTimeSec : 1469199773
+Exposure : 443062729000
+HighVoltage : 12
+IntegratedActivity : 51882.3986203
+ManualFlag : NONE
+Purity : 9.99999997619
+Quality : NOT-SET
+RunNumber : 7275
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : -3.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-07-22 14:55:28
+StartTimeSec : 1469199328
+TimeInterval : 445
+TriggerPrescale : 0
+WeekIndex : 254
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 116.584527741
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : restarted after moving source an inch to the correct position
+EndTime : 2016-07-22 17:01:28
+EndTimeSec : 1469206888
+Exposure : 7010685861000
+HighVoltage : 12
+IntegratedActivity : 817607.293046
+ManualFlag : NONE
+Purity : 4.00294744987
+Quality : NOT-SET
+RunNumber : 7276
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-07-22 15:04:35
+StartTimeSec : 1469199875
+TimeInterval : 7013
+TriggerPrescale : 0
+WeekIndex : 254
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 116.232226267
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-07-25 18:11:10
+EndTimeSec : 1469470270
+Exposure : 6996861950000
+HighVoltage : 12
+IntegratedActivity : 813625.583867
+ManualFlag : NONE
+Purity : 2.98060689638
+Quality : NOT-SET
+RunNumber : 7283
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-07-25 16:14:30
+StartTimeSec : 1469463270
+TimeInterval : 7000
+TriggerPrescale : 0
+WeekIndex : 254
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 115.885889478
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S5 
+EndTime : 2016-07-28 18:23:05
+EndTimeSec : 1469730185
+Exposure : 7410918903000
+HighVoltage : 12
+IntegratedActivity : 859062.098703
+ManualFlag : NONE
+Purity : 3.29303103572
+Quality : NOT-SET
+RunNumber : 7290
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-07-28 16:19:32
+StartTimeSec : 1469722772
+TimeInterval : 7413
+TriggerPrescale : 0
+WeekIndex : 254
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 115.768133295
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S5
+EndTime : 2016-07-29 19:07:44
+EndTimeSec : 1469819264
+Exposure : 8610472294000
+HighVoltage : 12
+IntegratedActivity : 997110.932067
+ManualFlag : NONE
+Purity : 3.45811763571
+Quality : NOT-SET
+RunNumber : 7294
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-07-29 16:44:11
+StartTimeSec : 1469810651
+TimeInterval : 8613
+TriggerPrescale : 0
+WeekIndex : 255
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 115.424197915
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S5
+EndTime : 2016-08-01 18:53:56
+EndTimeSec : 1470077636
+Exposure : 7472633319000
+HighVoltage : 12
+IntegratedActivity : 862911.303613
+ManualFlag : NONE
+Purity : 3.09613908675
+Quality : NOT-SET
+RunNumber : 7301
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-08-01 16:49:20
+StartTimeSec : 1470070160
+TimeInterval : 7476
+TriggerPrescale : 0
+WeekIndex : 255
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 115.317103918
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S5 - veto system work
+EndTime : 2016-08-02 17:27:49
+EndTimeSec : 1470158869
+Exposure : 8368193296000
+HighVoltage : 12
+IntegratedActivity : 965204.15979
+ManualFlag : NONE
+Purity : 3.41952687011
+Quality : NOT-SET
+RunNumber : 7304
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-08-02 15:08:19
+StartTimeSec : 1470150499
+TimeInterval : 8370
+TriggerPrescale : 0
+WeekIndex : 255
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 114.979919162
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Veto work in progress
+EndTime : 2016-08-05 15:28:54
+EndTimeSec : 1470410934
+Exposure : 2807715167000
+HighVoltage : 12
+IntegratedActivity : 323093.572844
+ManualFlag : NONE
+Purity : 3.23659086523
+Quality : NOT-SET
+RunNumber : 7312
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-08-05 14:42:04
+StartTimeSec : 1470408124
+TimeInterval : 2810
+TriggerPrescale : 0
+WeekIndex : 256
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 114.964979796
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : veto panel work in progress
+EndTime : 2016-08-05 19:00:45
+EndTimeSec : 1470423645
+Exposure : 5613095673000
+HighVoltage : 12
+IntegratedActivity : 645528.361555
+ManualFlag : NONE
+Purity : 3.71840105806
+Quality : NOT-SET
+RunNumber : 7314
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-08-05 17:27:10
+StartTimeSec : 1470418030
+TimeInterval : 5615
+TriggerPrescale : 0
+WeekIndex : 256
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 114.620506032
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-08-08 19:54:48
+EndTimeSec : 1470686088
+Exposure : 8176957795000
+HighVoltage : 12
+IntegratedActivity : 937481.118839
+ManualFlag : NONE
+Purity : 5.70259125991
+Quality : NOT-SET
+RunNumber : 7321
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-08-08 17:38:29
+StartTimeSec : 1470677909
+TimeInterval : 8179
+TriggerPrescale : 0
+WeekIndex : 256
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 114.392159723
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-08-10 20:01:46
+EndTimeSec : 1470859306
+Exposure : 7507973116000
+HighVoltage : 12
+IntegratedActivity : 859085.11952
+ManualFlag : NONE
+Purity : 3.67250649428
+Quality : NOT-SET
+RunNumber : 7326
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-08-10 17:56:36
+StartTimeSec : 1470851796
+TimeInterval : 7510
+TriggerPrescale : 0
+WeekIndex : 256
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 114.173167196
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-08-12 18:20:56
+EndTimeSec : 1471026056
+Exposure : 7470175712000
+HighVoltage : 12
+IntegratedActivity : 853101.905288
+ManualFlag : NONE
+Purity : 3.40135875465
+Quality : NOT-SET
+RunNumber : 7330
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-08-12 16:16:24
+StartTimeSec : 1471018584
+TimeInterval : 7472
+TriggerPrescale : 0
+WeekIndex : 257
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 113.828256483
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-08-15 19:29:17
+EndTimeSec : 1471289357
+Exposure : 7453862656000
+HighVoltage : 12
+IntegratedActivity : 848703.48034
+ManualFlag : NONE
+Purity : 3.03539185251
+Quality : NOT-SET
+RunNumber : 7340
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-08-15 17:25:01
+StartTimeSec : 1471281901
+TimeInterval : 7456
+TriggerPrescale : 0
+WeekIndex : 257
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 113.613763101
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-08-17 17:02:05
+EndTimeSec : 1471453325
+Exposure : 7091470806000
+HighVoltage : 12
+IntegratedActivity : 805862.421677
+ManualFlag : NONE
+Purity : 2.21130506076
+Quality : NOT-SET
+RunNumber : 7345
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-08-17 15:03:52
+StartTimeSec : 1471446232
+TimeInterval : 7093
+TriggerPrescale : 0
+WeekIndex : 257
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 113.381771412
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-08-19 18:37:04
+EndTimeSec : 1471631824
+Exposure : 8308477297000
+HighVoltage : 12
+IntegratedActivity : 942315.902204
+ManualFlag : NONE
+Purity : 2.14491260714
+Quality : NOT-SET
+RunNumber : 7350
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-08-19 16:18:33
+StartTimeSec : 1471623513
+TimeInterval : 8311
+TriggerPrescale : 0
+WeekIndex : 258
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 112.921388606
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-08-23 20:50:06
+EndTimeSec : 1471985406
+Exposure : 7274185534000
+HighVoltage : 12
+IntegratedActivity : 821616.023501
+ManualFlag : NONE
+Purity : 3.39008187992
+Quality : NOT-SET
+RunNumber : 7358
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-08-23 18:48:50
+StartTimeSec : 1471978130
+TimeInterval : 7276
+TriggerPrescale : 0
+WeekIndex : 258
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 112.691745579
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-08-25 22:02:50
+EndTimeSec : 1472162570
+Exposure : 7266567707000
+HighVoltage : 12
+IntegratedActivity : 819043.606871
+ManualFlag : NONE
+Purity : 2.47363463836
+Quality : NOT-SET
+RunNumber : 7361
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-08-25 20:01:42
+StartTimeSec : 1472155302
+TimeInterval : 7268
+TriggerPrescale : 0
+WeekIndex : 258
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 111.365455362
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-09-06 20:19:58
+EndTimeSec : 1473193198
+Exposure : 7839131262000
+HighVoltage : 12
+IntegratedActivity : 873327.900947
+ManualFlag : NONE
+Purity : 2.40351067256
+Quality : NOT-SET
+RunNumber : 7390
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-09-06 18:09:16
+StartTimeSec : 1473185356
+TimeInterval : 7842
+TriggerPrescale : 0
+WeekIndex : 260
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 111.132901273
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-09-08 22:51:04
+EndTimeSec : 1473375064
+Exposure : 7720626902000
+HighVoltage : 12
+IntegratedActivity : 858279.396528
+ManualFlag : NONE
+Purity : 2.15681973784
+Quality : NOT-SET
+RunNumber : 7395
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-09-08 20:42:21
+StartTimeSec : 1473367341
+TimeInterval : 7723
+TriggerPrescale : 0
+WeekIndex : 260
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 110.926403124
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-09-10 19:48:50
+EndTimeSec : 1473536930
+Exposure : 7729883493000
+HighVoltage : 12
+IntegratedActivity : 857682.948953
+ManualFlag : NONE
+Purity : 2.18578131332
+Quality : NOT-SET
+RunNumber : 7403
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-09-10 17:39:58
+StartTimeSec : 1473529198
+TimeInterval : 7732
+TriggerPrescale : 0
+WeekIndex : 261
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 110.581356375
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh S5
+EndTime : 2016-09-13 22:58:26
+EndTimeSec : 1473807506
+Exposure : 6608855401000
+HighVoltage : 12
+IntegratedActivity : 731385.091062
+ManualFlag : NONE
+Purity : 3.24202298353
+Quality : NOT-SET
+RunNumber : 7410
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-09-13 21:08:12
+StartTimeSec : 1473800892
+TimeInterval : 6614
+TriggerPrescale : 0
+WeekIndex : 261
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 110.359549139
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-09-16 00:06:14
+EndTimeSec : 1473984374
+Exposure : 10865314153000
+HighVoltage : 12
+IntegratedActivity : 1199277.2205
+ManualFlag : NONE
+Purity : 2.42950023465
+Quality : NOT-SET
+RunNumber : 7416
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-09-15 21:05:07
+StartTimeSec : 1473973507
+TimeInterval : 10867
+TriggerPrescale : 0
+WeekIndex : 261
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 109.925619594
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S5 wTh
+EndTime : 2016-09-19 23:07:57
+EndTimeSec : 1474326477
+Exposure : 9327964255000
+HighVoltage : 12
+IntegratedActivity : 1025715.95643
+ManualFlag : NONE
+Purity : 2.4075930944
+Quality : NOT-SET
+RunNumber : 7427
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-09-19 20:32:26
+StartTimeSec : 1474317146
+TimeInterval : 9331
+TriggerPrescale : 0
+WeekIndex : 262
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 109.700249368
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S5
+EndTime : 2016-09-22 00:32:37
+EndTimeSec : 1474504357
+Exposure : 7864823862000
+HighVoltage : 12
+IntegratedActivity : 863121.562027
+ManualFlag : NONE
+Purity : 2.84377536677
+Quality : NOT-SET
+RunNumber : 7432
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-09-21 22:21:29
+StartTimeSec : 1474496489
+TimeInterval : 7868
+TriggerPrescale : 0
+WeekIndex : 262
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 109.593429022
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S5
+EndTime : 2016-09-23 00:04:55
+EndTimeSec : 1474589095
+Exposure : 7769517670000
+HighVoltage : 12
+IntegratedActivity : 851760.130358
+ManualFlag : NONE
+Purity : 2.81277641178
+Quality : NOT-SET
+RunNumber : 7435
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-09-22 21:55:23
+StartTimeSec : 1474581323
+TimeInterval : 7772
+TriggerPrescale : 0
+WeekIndex : 262
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 109.185000961
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : source calib
+EndTime : 2016-09-26 18:42:44
+EndTimeSec : 1474915364
+Exposure : 10421063557000
+HighVoltage : 12
+IntegratedActivity : 1138035.26502
+ManualFlag : NONE
+Purity : 2.11664836445
+Quality : NOT-SET
+RunNumber : 7442
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-09-26 15:49:01
+StartTimeSec : 1474904941
+TimeInterval : 10423
+TriggerPrescale : 0
+WeekIndex : 263
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 109.079550269
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S5, after fixing FEC HV power supply connection
+EndTime : 2016-09-27 17:50:21
+EndTimeSec : 1474998621
+Exposure : 8747095995000
+HighVoltage : 12
+IntegratedActivity : 954446.064857
+ManualFlag : NONE
+Purity : 0.0
+Quality : NOT-SET
+RunNumber : 7447
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-09-27 15:24:31
+StartTimeSec : 1474989871
+TimeInterval : 8750
+TriggerPrescale : 0
+WeekIndex : 263
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 108.850368789
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh228 at S5
+EndTime : 2016-09-29 20:35:45
+EndTimeSec : 1475181345
+Exposure : 8104973630000
+HighVoltage : 12
+IntegratedActivity : 882449.939776
+ManualFlag : NONE
+Purity : 2.43808902562
+Quality : NOT-SET
+RunNumber : 7453
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-09-29 18:20:38
+StartTimeSec : 1475173238
+TimeInterval : 8107
+TriggerPrescale : 0
+WeekIndex : 263
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 108.434918739
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S5 
+EndTime : 2016-10-03 17:04:20
+EndTimeSec : 1475514260
+Exposure : 8332423343000
+HighVoltage : 12
+IntegratedActivity : 903696.612767
+ManualFlag : NONE
+Purity : 2.5776575102
+Quality : NOT-SET
+RunNumber : 7462
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-03 14:45:26
+StartTimeSec : 1475505926
+TimeInterval : 8334
+TriggerPrescale : 0
+WeekIndex : 264
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 108.327020279
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S5
+EndTime : 2016-10-04 17:01:24
+EndTimeSec : 1475600484
+Exposure : 7496593541000
+HighVoltage : 12
+IntegratedActivity : 812235.99805
+ManualFlag : NONE
+Purity : 2.98575426096
+Quality : GOLDEN
+RunNumber : 7465
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-04 14:56:26
+StartTimeSec : 1475592986
+TimeInterval : 7498
+TriggerPrescale : 0
+WeekIndex : 264
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 108.208912548
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S5
+EndTime : 2016-10-05 19:26:36
+EndTimeSec : 1475695596
+Exposure : 7841396512000
+HighVoltage : 12
+IntegratedActivity : 848790.710025
+ManualFlag : NONE
+Purity : 2.59250702704
+Quality : GOLDEN
+RunNumber : 7471
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-05 17:15:52
+StartTimeSec : 1475687752
+TimeInterval : 7844
+TriggerPrescale : 0
+WeekIndex : 264
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 108.005169367
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S5 
+EndTime : 2016-10-07 17:00:47
+EndTimeSec : 1475859647
+Exposure : 7905112300000
+HighVoltage : 12
+IntegratedActivity : 853996.874185
+ManualFlag : NONE
+Purity : 3.29506209215
+Quality : GOOD
+RunNumber : 7477
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-07 14:49:00
+StartTimeSec : 1475851740
+TimeInterval : 7907
+TriggerPrescale : 0
+WeekIndex : 265
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 107.682030827
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S5
+EndTime : 2016-10-10 17:26:47
+EndTimeSec : 1476120407
+Exposure : 7880388656000
+HighVoltage : 12
+IntegratedActivity : 848857.449009
+ManualFlag : NONE
+Purity : 3.86432312467
+Quality : NOT-SET
+RunNumber : 7484
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-10 15:15:24
+StartTimeSec : 1476112524
+TimeInterval : 7883
+TriggerPrescale : 0
+WeekIndex : 265
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 107.573756099
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S5. 
+EndTime : 2016-10-11 17:46:09
+EndTimeSec : 1476207969
+Exposure : 7900465100000
+HighVoltage : 12
+IntegratedActivity : 850047.820692
+ManualFlag : NONE
+Purity : 2.47389487807
+Quality : NOT-SET
+RunNumber : 7487
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-11 15:34:27
+StartTimeSec : 1476200067
+TimeInterval : 7902
+TriggerPrescale : 0
+WeekIndex : 265
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 107.458773636
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S8 (1" past mark)
+EndTime : 2016-10-12 19:33:32
+EndTimeSec : 1476300812
+Exposure : 7438374416000
+HighVoltage : 12
+IntegratedActivity : 799708.193401
+ManualFlag : NONE
+Purity : 1.08099865801
+Quality : NOT SET
+RunNumber : 7490
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 8
+SourcePositionX : 2.5
+SourcePositionY : 0.23
+SourcePositionZ : 29.5
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-12 17:29:30
+StartTimeSec : 1476293370
+TimeInterval : 7442
+TriggerPrescale : 0
+WeekIndex : 265
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 229.39201779
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S2 (1" past mark)
+EndTime : 2016-10-12 21:35:31
+EndTimeSec : 1476308131
+Exposure : 7157192049000
+HighVoltage : 12
+IntegratedActivity : 1642446.84738
+ManualFlag : NONE
+Purity : 1.0
+Quality : NOT-SET
+RunNumber : 7491
+SourceA : 226
+SourceName : Ra-226
+SourcePositionS : 2
+SourcePositionX : -2.5
+SourcePositionY : 0.23
+SourcePositionZ : -29.2
+SourceStrength : weak
+SourceZ : 088
+StartTime : 2016-10-12 19:36:11
+StartTimeSec : 1476300971
+TimeInterval : 7160
+TriggerPrescale : 0
+WeekIndex : 265
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 229.391994948
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Ra S5 (1" past mark)
+EndTime : 2016-10-12 23:35:52
+EndTimeSec : 1476315352
+Exposure : 7099996645000
+HighVoltage : 12
+IntegratedActivity : 1629371.34012
+ManualFlag : NONE
+Purity : 1.0
+Quality : NOT-SET
+RunNumber : 7492
+SourceA : 226
+SourceName : Ra-226
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 088
+StartTime : 2016-10-12 21:37:29
+StartTimeSec : 1476308249
+TimeInterval : 7103
+TriggerPrescale : 0
+WeekIndex : 265
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 229.391972468
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Ra S5 (1" past mark)
+EndTime : 2016-10-13 01:35:36
+EndTimeSec : 1476322536
+Exposure : 7120143685000
+HighVoltage : 12
+IntegratedActivity : 1633729.62792
+ManualFlag : NONE
+Purity : 1.0
+Quality : NOT-SET
+RunNumber : 7493
+SourceA : 226
+SourceName : Ra-226
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 088
+StartTime : 2016-10-12 23:36:54
+StartTimeSec : 1476315414
+TimeInterval : 7122
+TriggerPrescale : 0
+WeekIndex : 265
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 229.391949916
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Ra S5 (1" past mark)
+EndTime : 2016-10-13 03:36:20
+EndTimeSec : 1476329780
+Exposure : 7196021812000
+HighVoltage : 12
+IntegratedActivity : 1651163.2555
+ManualFlag : NONE
+Purity : 1.0
+Quality : NOT-SET
+RunNumber : 7494
+SourceA : 226
+SourceName : Ra-226
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 088
+StartTime : 2016-10-13 01:36:22
+StartTimeSec : 1476322582
+TimeInterval : 7198
+TriggerPrescale : 0
+WeekIndex : 265
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 229.391926916
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Ra S5 (1" past mark)
+EndTime : 2016-10-13 05:36:54
+EndTimeSec : 1476337014
+Exposure : 7203062175000
+HighVoltage : 12
+IntegratedActivity : 1652768.83343
+ManualFlag : NONE
+Purity : 1.0
+Quality : NOT-SET
+RunNumber : 7495
+SourceA : 226
+SourceName : Ra-226
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 088
+StartTime : 2016-10-13 03:36:49
+StartTimeSec : 1476329809
+TimeInterval : 7205
+TriggerPrescale : 0
+WeekIndex : 265
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 229.39190391
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Ra S5 (1" past mark)
+EndTime : 2016-10-13 07:39:06
+EndTimeSec : 1476344346
+Exposure : 7203699013000
+HighVoltage : 12
+IntegratedActivity : 1653686.23528
+ManualFlag : NONE
+Purity : 1.0
+Quality : NOT-SET
+RunNumber : 7496
+SourceA : 226
+SourceName : Ra-226
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 088
+StartTime : 2016-10-13 05:38:57
+StartTimeSec : 1476337137
+TimeInterval : 7209
+TriggerPrescale : 0
+WeekIndex : 265
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 229.391880684
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Ra S5 (1" past mark)
+EndTime : 2016-10-13 09:42:01
+EndTimeSec : 1476351721
+Exposure : 7202265824000
+HighVoltage : 12
+IntegratedActivity : 1652768.50033
+ManualFlag : NONE
+Purity : 1.0
+Quality : NOT-SET
+RunNumber : 7497
+SourceA : 226
+SourceName : Ra-226
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 088
+StartTime : 2016-10-13 07:41:56
+StartTimeSec : 1476344516
+TimeInterval : 7205
+TriggerPrescale : 0
+WeekIndex : 265
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 229.391857383
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Ra S5 (1" past mark)
+EndTime : 2016-10-13 11:44:54
+EndTimeSec : 1476359094
+Exposure : 7204668102000
+HighVoltage : 12
+IntegratedActivity : 1653915.29173
+ManualFlag : NONE
+Purity : 1.0
+Quality : NOT-SET
+RunNumber : 7498
+SourceA : 226
+SourceName : Ra-226
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 088
+StartTime : 2016-10-13 09:44:44
+StartTimeSec : 1476351884
+TimeInterval : 7210
+TriggerPrescale : 0
+WeekIndex : 265
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 229.391834567
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Ra S5 (1" past mark)
+EndTime : 2016-10-13 13:44:36
+EndTimeSec : 1476366276
+Exposure : 7033063587000
+HighVoltage : 12
+IntegratedActivity : 1614689.12352
+ManualFlag : NONE
+Purity : 1.0
+Quality : NOT-SET
+RunNumber : 7499
+SourceA : 226
+SourceName : Ra-226
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 088
+StartTime : 2016-10-13 11:47:17
+StartTimeSec : 1476359237
+TimeInterval : 7039
+TriggerPrescale : 0
+WeekIndex : 265
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 229.391813663
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Ra S5 (1" past mark)
+EndTime : 2016-10-13 15:27:45
+EndTimeSec : 1476372465
+Exposure : 6175108454000
+HighVoltage : 12
+IntegratedActivity : 1416953.23299
+ManualFlag : NONE
+Purity : 1.0
+Quality : NOT-SET
+RunNumber : 7500
+SourceA : 226
+SourceName : Ra-226
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 088
+StartTime : 2016-10-13 13:44:48
+StartTimeSec : 1476366288
+TimeInterval : 6177
+TriggerPrescale : 0
+WeekIndex : 265
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 207.734005951
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Co60 S2 (+1" offset)
+EndTime : 2016-10-13 18:08:55
+EndTimeSec : 1476382135
+Exposure : 7252071541000
+HighVoltage : 12
+IntegratedActivity : 1507317.94718
+ManualFlag : NONE
+Purity : 0.0
+Quality : NOT-SET
+RunNumber : 7502
+SourceA : 060
+SourceName : Co-60
+SourcePositionS : 2
+SourcePositionX : -2.5
+SourcePositionY : 0.23
+SourcePositionZ : -29.2
+SourceStrength : weak
+SourceZ : 027
+StartTime : 2016-10-13 16:07:59
+StartTimeSec : 1476374879
+TimeInterval : 7256
+TriggerPrescale : 0
+WeekIndex : 265
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 207.727596594
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Co60 S8 (+1" offset)
+EndTime : 2016-10-13 20:12:30
+EndTimeSec : 1476389550
+Exposure : 7271435775000
+HighVoltage : 12
+IntegratedActivity : 1511633.72041
+ManualFlag : NONE
+Purity : 0.0
+Quality : NOT-SET
+RunNumber : 7503
+SourceA : 060
+SourceName : Co-60
+SourcePositionS : 8
+SourcePositionX : 2.5
+SourcePositionY : 0.23
+SourcePositionZ : 29.5
+SourceStrength : weak
+SourceZ : 027
+StartTime : 2016-10-13 18:11:13
+StartTimeSec : 1476382273
+TimeInterval : 7277
+TriggerPrescale : 0
+WeekIndex : 265
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 207.721475234
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Co60 S5 (+1" offset). Breakup 2hr runs overnight. 
+EndTime : 2016-10-13 22:04:18
+EndTimeSec : 1476396258
+Exposure : 6543793614000
+HighVoltage : 12
+IntegratedActivity : 1360367.9413
+ManualFlag : NONE
+Purity : 0.0
+Quality : NOT-SET
+RunNumber : 7504
+SourceA : 060
+SourceName : Co-60
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 027
+StartTime : 2016-10-13 20:15:09
+StartTimeSec : 1476389709
+TimeInterval : 6549
+TriggerPrescale : 0
+WeekIndex : 265
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 2393.38362821
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Cs Prescale1 S5 (+1" offset)
+EndTime : 2016-10-14 17:03:55
+EndTimeSec : 1476464635
+Exposure : 6739091183000
+HighVoltage : 12
+IntegratedActivity : 16138585.805
+ManualFlag : NONE
+Purity : 4.72883163924
+Quality : NOT-SET
+RunNumber : 7507
+SourceA : 137
+SourceName : Cs-137
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 055
+StartTime : 2016-10-14 15:11:32
+StartTimeSec : 1476457892
+TimeInterval : 6743
+TriggerPrescale : 1
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 2393.37156562
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Cs Prescale1 S2 (+1" offset)
+EndTime : 2016-10-14 18:59:48
+EndTimeSec : 1476471588
+Exposure : 6841756909000
+HighVoltage : 12
+IntegratedActivity : 16382628.3667
+ManualFlag : NONE
+Purity : 1.03948478515
+Quality : NOT-SET
+RunNumber : 7508
+SourceA : 137
+SourceName : Cs-137
+SourcePositionS : 2
+SourcePositionX : -2.5
+SourcePositionY : 0.23
+SourcePositionZ : -29.2
+SourceStrength : weak
+SourceZ : 055
+StartTime : 2016-10-14 17:05:43
+StartTimeSec : 1476464743
+TimeInterval : 6845
+TriggerPrescale : 1
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.935741647
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S2 (+1" offset)
+EndTime : 2016-10-17 17:37:48
+EndTimeSec : 1476725868
+Exposure : 8288272623000
+HighVoltage : 12
+IntegratedActivity : 886711.16974
+ManualFlag : NONE
+Purity : 3.41089756932
+Quality : NOT-SET
+RunNumber : 7515
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 2
+SourcePositionX : -2.5
+SourcePositionY : 0.23
+SourcePositionZ : -29.2
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-17 15:19:36
+StartTimeSec : 1476717576
+TimeInterval : 8292
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.926068281
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S2-8cm (+1" offset)
+EndTime : 2016-10-17 19:40:49
+EndTimeSec : 1476733249
+Exposure : 7306051013000
+HighVoltage : 12
+IntegratedActivity : 781415.706997
+ManualFlag : NONE
+Purity : 3.50783776491
+Quality : NOT-SET
+RunNumber : 7516
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 0
+SourcePositionX : 0.0
+SourcePositionY : 0.0
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-17 17:39:01
+StartTimeSec : 1476725941
+TimeInterval : 7308
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.91928588
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S2-8cm (+1" offset)
+EndTime : 2016-10-17 20:42:57
+EndTimeSec : 1476736977
+Exposure : 3720909964000
+HighVoltage : 12
+IntegratedActivity : 398060.50133
+ManualFlag : NONE
+Purity : 2.63347683114
+Quality : NOT-SET
+RunNumber : 7517
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 0
+SourcePositionX : 0.0
+SourcePositionY : 0.0
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-17 19:40:54
+StartTimeSec : 1476733254
+TimeInterval : 3723
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.912043287
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S5 (+1" offset). Breakup into 2 hour runs overnight.
+EndTime : 2016-10-17 22:55:27
+EndTimeSec : 1476744927
+Exposure : 7827032231000
+HighVoltage : 12
+IntegratedActivity : 837335.123022
+ManualFlag : NONE
+Purity : 2.89954839418
+Quality : NOT-SET
+RunNumber : 7518
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-17 20:44:55
+StartTimeSec : 1476737095
+TimeInterval : 7832
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.902763911
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S5 (+1" offset). Breakup into 2 hour runs overnight.
+EndTime : 2016-10-18 00:56:07
+EndTimeSec : 1476752167
+Exposure : 7201813869000
+HighVoltage : 12
+IntegratedActivity : 770127.511213
+ManualFlag : NONE
+Purity : 3.60691326812
+Quality : NOT-SET
+RunNumber : 7519
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-17 22:56:03
+StartTimeSec : 1476744963
+TimeInterval : 7204
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.893909092
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S5 (+1" offset). Breakup into 2 hour runs overnight.
+EndTime : 2016-10-18 02:56:15
+EndTimeSec : 1476759375
+Exposure : 7201462428000
+HighVoltage : 12
+IntegratedActivity : 769849.933277
+ManualFlag : NONE
+Purity : 4.19082304131
+Quality : NOT-SET
+RunNumber : 7520
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-18 00:56:13
+StartTimeSec : 1476752173
+TimeInterval : 7202
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.88504211
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S5 (+1" offset). Breakup into 2 hour runs overnight.
+EndTime : 2016-10-18 04:56:47
+EndTimeSec : 1476766607
+Exposure : 7224875630000
+HighVoltage : 12
+IntegratedActivity : 772458.199326
+ManualFlag : NONE
+Purity : 4.21260654578
+Quality : NOT-SET
+RunNumber : 7521
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-18 02:56:20
+StartTimeSec : 1476759380
+TimeInterval : 7227
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.87563062
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S5 (+1" offset). Breakup into 2 hour runs overnight.
+EndTime : 2016-10-18 07:11:43
+EndTimeSec : 1476774703
+Exposure : 8090402758000
+HighVoltage : 12
+IntegratedActivity : 864837.602978
+ManualFlag : NONE
+Purity : 3.98862795882
+Quality : NOT-SET
+RunNumber : 7522
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-18 04:56:51
+StartTimeSec : 1476766611
+TimeInterval : 8092
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.863520418
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S5 (+1" offset). Breakup into 2 hour runs overnight.
+EndTime : 2016-10-18 10:25:13
+EndTimeSec : 1476786313
+Exposure : 11585657756000
+HighVoltage : 12
+IntegratedActivity : 1238334.47461
+ManualFlag : NONE
+Purity : 3.48641876068
+Quality : NOT-SET
+RunNumber : 7523
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-18 07:12:05
+StartTimeSec : 1476774725
+TimeInterval : 11588
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.851463073
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S5 (+1" offset). Breakup into 2 hour runs overnight.
+EndTime : 2016-10-18 12:39:18
+EndTimeSec : 1476794358
+Exposure : 8036411692000
+HighVoltage : 12
+IntegratedActivity : 858872.060184
+ManualFlag : NONE
+Purity : 3.09293238519
+Quality : NOT-SET
+RunNumber : 7524
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-18 10:25:20
+StartTimeSec : 1476786320
+TimeInterval : 8038
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.841093292
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S5 (+1" offset). Breakup into 2 hour runs overnight.
+EndTime : 2016-10-18 15:06:47
+EndTimeSec : 1476803207
+Exposure : 8841842501000
+HighVoltage : 12
+IntegratedActivity : 944795.787984
+ManualFlag : NONE
+Purity : 2.99677869378
+Quality : NOT-SET
+RunNumber : 7525
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-18 12:39:24
+StartTimeSec : 1476794364
+TimeInterval : 8843
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.829880594
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S2-8cm (+1" offset).
+EndTime : 2016-10-18 17:42:17
+EndTimeSec : 1476812537
+Exposure : 9230534514000
+HighVoltage : 12
+IntegratedActivity : 986573.94729
+ManualFlag : NONE
+Purity : 3.28135422737
+Quality : NOT-SET
+RunNumber : 7526
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 0
+SourcePositionX : 0.0
+SourcePositionY : 0.0
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-18 15:08:22
+StartTimeSec : 1476803302
+TimeInterval : 9235
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.818505827
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S2-8cm (+1" offset).
+EndTime : 2016-10-18 20:17:11
+EndTimeSec : 1476821831
+Exposure : 9287495289000
+HighVoltage : 12
+IntegratedActivity : 992237.100627
+ManualFlag : NONE
+Purity : 2.35685277736
+Quality : NOT-SET
+RunNumber : 7527
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 0
+SourcePositionX : 0.0
+SourcePositionY : 0.0
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-18 17:42:22
+StartTimeSec : 1476812542
+TimeInterval : 9289
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.807971695
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S11 (+1" offset). Repeating 2 hr runs overnight
+EndTime : 2016-10-18 22:22:52
+EndTimeSec : 1476829372
+Exposure : 7201085648000
+HighVoltage : 12
+IntegratedActivity : 769551.436062
+ManualFlag : NONE
+Purity : 5.14908226243
+Quality : NOT-SET
+RunNumber : 7528
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 11
+SourcePositionX : 0.4
+SourcePositionY : 25.5
+SourcePositionZ : 1.8
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-18 20:22:47
+StartTimeSec : 1476822167
+TimeInterval : 7205
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.799125954
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S11 (+1" offset). Repeating 2 hr runs overnight
+EndTime : 2016-10-19 00:22:59
+EndTimeSec : 1476836579
+Exposure : 7200954781000
+HighVoltage : 12
+IntegratedActivity : 769274.104243
+ManualFlag : NONE
+Purity : 3.94499182047
+Quality : NOT-SET
+RunNumber : 7529
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 11
+SourcePositionX : 0.4
+SourcePositionY : 25.5
+SourcePositionZ : 1.8
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-18 22:22:56
+StartTimeSec : 1476829376
+TimeInterval : 7203
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.79028524
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S11 (+1" offset). Repeating 2 hr runs overnight
+EndTime : 2016-10-19 02:23:03
+EndTimeSec : 1476843783
+Exposure : 7200564292000
+HighVoltage : 12
+IntegratedActivity : 769103.634301
+ManualFlag : NONE
+Purity : 4.05285648202
+Quality : NOT-SET
+RunNumber : 7530
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 11
+SourcePositionX : 0.4
+SourcePositionY : 25.5
+SourcePositionZ : 1.8
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-19 00:23:01
+StartTimeSec : 1476836581
+TimeInterval : 7202
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.781442805
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S11 (+1" offset). Repeating 2 hr runs overnight
+EndTime : 2016-10-19 04:23:10
+EndTimeSec : 1476850990
+Exposure : 7201143401000
+HighVoltage : 12
+IntegratedActivity : 769146.732522
+ManualFlag : NONE
+Purity : 2.5918804222
+Quality : NOT-SET
+RunNumber : 7531
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 11
+SourcePositionX : 0.4
+SourcePositionY : 25.5
+SourcePositionZ : 1.8
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-19 02:23:07
+StartTimeSec : 1476843787
+TimeInterval : 7203
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.77259374
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S11 (+1" offset). Repeating 2 hr runs overnight
+EndTime : 2016-10-19 06:23:28
+EndTimeSec : 1476858208
+Exposure : 7212399163000
+HighVoltage : 12
+IntegratedActivity : 770257.491241
+ManualFlag : NONE
+Purity : 5.41137523484
+Quality : NOT-SET
+RunNumber : 7532
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 11
+SourcePositionX : 0.4
+SourcePositionY : 25.5
+SourcePositionZ : 1.8
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-19 04:23:14
+StartTimeSec : 1476850994
+TimeInterval : 7214
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.759557437
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S11 (+1" offset). Repeating 2 hr runs overnight
+EndTime : 2016-10-19 10:17:20
+EndTimeSec : 1476872240
+Exposure : 14022945060000
+HighVoltage : 12
+IntegratedActivity : 1497302.79306
+ManualFlag : NONE
+Purity : 4.22139506695
+Quality : NOT-SET
+RunNumber : 7533
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 11
+SourcePositionX : 0.4
+SourcePositionY : 25.5
+SourcePositionZ : 1.8
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-19 06:23:35
+StartTimeSec : 1476858215
+TimeInterval : 14025
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.746407262
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S11 (+1" offset). Repeating 2 hr runs overnight
+EndTime : 2016-10-19 12:20:50
+EndTimeSec : 1476879650
+Exposure : 7402417034000
+HighVoltage : 12
+IntegratedActivity : 790350.399367
+ManualFlag : NONE
+Purity : 5.18244521818
+Quality : NOT-SET
+RunNumber : 7534
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 11
+SourcePositionX : 0.4
+SourcePositionY : 25.5
+SourcePositionZ : 1.8
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-19 10:17:26
+StartTimeSec : 1476872246
+TimeInterval : 7404
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.73661736
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S11 (+1" offset). Repeating 2 hr runs overnight
+EndTime : 2016-10-19 14:43:24
+EndTimeSec : 1476888204
+Exposure : 8546460564000
+HighVoltage : 12
+IntegratedActivity : 912384.605191
+ManualFlag : NONE
+Purity : 3.41055457945
+Quality : NOT-SET
+RunNumber : 7535
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 11
+SourcePositionX : 0.4
+SourcePositionY : 25.5
+SourcePositionZ : 1.8
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-19 12:20:56
+StartTimeSec : 1476879656
+TimeInterval : 8548
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.72873098
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S11 (+1" offset). Repeating 2 hr runs overnight
+EndTime : 2016-10-19 15:55:11
+EndTimeSec : 1476892511
+Exposure : 4299779906000
+HighVoltage : 12
+IntegratedActivity : 459040.271946
+ManualFlag : NONE
+Purity : 2.78112173569
+Quality : NOT-SET
+RunNumber : 7536
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 11
+SourcePositionX : 0.4
+SourcePositionY : 25.5
+SourcePositionZ : 1.8
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-19 14:43:30
+StartTimeSec : 1476888210
+TimeInterval : 4301
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.720630039
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : wTh 40nCi S8 (+1" offset).
+EndTime : 2016-10-19 18:19:55
+EndTimeSec : 1476901195
+Exposure : 8451758932000
+HighVoltage : 12
+IntegratedActivity : 902536.368237
+ManualFlag : NONE
+Purity : 3.22925997563
+Quality : NOT-SET
+RunNumber : 7537
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 8
+SourcePositionX : 2.5
+SourcePositionY : 0.23
+SourcePositionZ : 29.5
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-19 15:58:58
+StartTimeSec : 1476892738
+TimeInterval : 8457
+TriggerPrescale : 0
+WeekIndex : 266
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.514802586
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-10-21 16:56:58
+EndTimeSec : 1477069018
+Exposure : 8076680050000
+HighVoltage : 12
+IntegratedActivity : 860533.090096
+ManualFlag : NONE
+Purity : 3.1769817807
+Quality : NOT-SET
+RunNumber : 7544
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-21 14:42:19
+StartTimeSec : 1477060939
+TimeInterval : 8079
+TriggerPrescale : 0
+WeekIndex : 267
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 106.198107769
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : excavating around module1
+EndTime : 2016-10-24 16:54:15
+EndTimeSec : 1477328055
+Exposure : 7859310719000
+HighVoltage : 12
+IntegratedActivity : 834929.52328
+ManualFlag : NONE
+Purity : 2.74733580243
+Quality : NOT-SET
+RunNumber : 7549
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-24 14:43:13
+StartTimeSec : 1477320193
+TimeInterval : 7862
+TriggerPrescale : 0
+WeekIndex : 267
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 105.985547998
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-10-26 17:20:55
+EndTimeSec : 1477502455
+Exposure : 7922702171000
+HighVoltage : 12
+IntegratedActivity : 840147.438978
+ManualFlag : NONE
+Purity : 3.93579474681
+Quality : NOT-SET
+RunNumber : 7554
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-26 15:08:48
+StartTimeSec : 1477494528
+TimeInterval : 7927
+TriggerPrescale : 0
+WeekIndex : 267
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 105.769215848
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Excavation work outside Mod1
+EndTime : 2016-10-28 18:41:58
+EndTimeSec : 1477680118
+Exposure : 7607681294000
+HighVoltage : 12
+IntegratedActivity : 804903.732603
+ManualFlag : NONE
+Purity : 3.73463464022
+Quality : NOT-SET
+RunNumber : 7560
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-28 16:35:08
+StartTimeSec : 1477672508
+TimeInterval : 7610
+TriggerPrescale : 0
+WeekIndex : 268
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 105.441042138
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Mod1 salt worx ongoing
+EndTime : 2016-10-31 21:51:00
+EndTimeSec : 1477950660
+Exposure : 7794134589000
+HighVoltage : 12
+IntegratedActivity : 822018.364505
+ManualFlag : NONE
+Purity : 4.6961563954
+Quality : NOT-SET
+RunNumber : 7567
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-10-31 19:41:04
+StartTimeSec : 1477942864
+TimeInterval : 7796
+TriggerPrescale : 0
+WeekIndex : 268
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 105.227691271
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Mod1 salt worx
+EndTime : 2016-11-02 22:49:16
+EndTimeSec : 1478126956
+Exposure : 7834924848000
+HighVoltage : 12
+IntegratedActivity : 824774.644181
+ManualFlag : NONE
+Purity : 2.84727050438
+Quality : NOT-SET
+RunNumber : 7573
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-11-02 20:38:38
+StartTimeSec : 1478119118
+TimeInterval : 7838
+TriggerPrescale : 0
+WeekIndex : 268
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 104.940407987
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : no work outside mod1
+EndTime : 2016-11-05 16:54:25
+EndTimeSec : 1478364865
+Exposure : 7800696093000
+HighVoltage : 12
+IntegratedActivity : 819164.824747
+ManualFlag : NONE
+Purity : 3.60637095313
+Quality : GOLDEN
+RunNumber : 7580
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-11-05 14:44:19
+StartTimeSec : 1478357059
+TimeInterval : 7806
+TriggerPrescale : 0
+WeekIndex : 269
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 104.719354519
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-11-07 20:00:01
+EndTimeSec : 1478548801
+Exposure : 8639555146000
+HighVoltage : 12
+IntegratedActivity : 904984.661756
+ManualFlag : NONE
+Purity : 3.01969658512
+Quality : SUSPECT
+RunNumber : 7585
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-11-07 17:35:59
+StartTimeSec : 1478540159
+TimeInterval : 8642
+TriggerPrescale : 0
+WeekIndex : 269
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 104.491557156
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Salt notching outside CR
+EndTime : 2016-11-10 00:37:32
+EndTimeSec : 1478738252
+Exposure : 8495669241000
+HighVoltage : 12
+IntegratedActivity : 888073.744271
+ManualFlag : NONE
+Purity : 2.95685844807
+Quality : SUSPECT
+RunNumber : 7590
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-11-09 22:15:53
+StartTimeSec : 1478729753
+TimeInterval : 8499
+TriggerPrescale : 0
+WeekIndex : 269
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 104.303651132
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Salt notching outside CR
+EndTime : 2016-11-11 20:07:18
+EndTimeSec : 1478894838
+Exposure : 8377925443000
+HighVoltage : 12
+IntegratedActivity : 874168.900141
+ManualFlag : NONE
+Purity : 2.90820469064
+Quality : SUSPECT
+RunNumber : 7595
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-11-11 17:47:37
+StartTimeSec : 1478886457
+TimeInterval : 8381
+TriggerPrescale : 0
+WeekIndex : 270
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 103.994314491
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Concurrent with salt notching 
+EndTime : 2016-11-14 19:56:21
+EndTimeSec : 1479153381
+Exposure : 8485837503000
+HighVoltage : 12
+IntegratedActivity : 882703.741399
+ManualFlag : NONE
+Purity : 4.64800360273
+Quality : GOOD
+RunNumber : 7603
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-11-14 17:34:53
+StartTimeSec : 1479144893
+TimeInterval : 8488
+TriggerPrescale : 0
+WeekIndex : 270
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 103.867903601
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : After DAQ HV cut and UPS work. No salt worx going on.
+EndTime : 2016-11-16 01:18:53
+EndTimeSec : 1479259133
+Exposure : 8282749165000
+HighVoltage : 12
+IntegratedActivity : 860545.581338
+ManualFlag : NONE
+Purity : 2.99887030105
+Quality : GOOD
+RunNumber : 7607
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-11-15 23:00:48
+StartTimeSec : 1479250848
+TimeInterval : 8285
+TriggerPrescale : 0
+WeekIndex : 270
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 103.667666824
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Doing salt excavation outside Mod1
+EndTime : 2016-11-17 23:56:23
+EndTimeSec : 1479426983
+Exposure : 8107346339000
+HighVoltage : 12
+IntegratedActivity : 840744.777941
+ManualFlag : NONE
+Purity : 3.49880927971
+Quality : SUSPECT
+RunNumber : 7611
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-11-17 21:41:13
+StartTimeSec : 1479418873
+TimeInterval : 8110
+TriggerPrescale : 0
+WeekIndex : 270
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 103.279582271
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Levelling work around Mod1
+EndTime : 2016-11-21 18:36:26
+EndTimeSec : 1479753386
+Exposure : 8093126827000
+HighVoltage : 12
+IntegratedActivity : 836151.498064
+ManualFlag : NONE
+Purity : 3.46730293728
+Quality : SUSPECT
+RunNumber : 7620
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-11-21 16:21:30
+StartTimeSec : 1479745290
+TimeInterval : 8096
+TriggerPrescale : 0
+WeekIndex : 271
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 103.077502047
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : 
+EndTime : 2016-11-23 18:00:52
+EndTimeSec : 1479924052
+Exposure : 8522709197000
+HighVoltage : 12
+IntegratedActivity : 878735.704947
+ManualFlag : NONE
+Purity : 3.60203312259
+Quality : GOLDEN
+RunNumber : 7625
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-11-23 15:38:47
+StartTimeSec : 1479915527
+TimeInterval : 8525
+TriggerPrescale : 0
+WeekIndex : 271
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 102.7723474
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S5 no work in drift
+EndTime : 2016-11-26 17:38:38
+EndTimeSec : 1480181918
+Exposure : 8200314320000
+HighVoltage : 12
+IntegratedActivity : 842938.793376
+ManualFlag : NONE
+Purity : 2.99671340012
+Quality : GOLDEN
+RunNumber : 7632
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-11-26 15:21:56
+StartTimeSec : 1480173716
+TimeInterval : 8202
+TriggerPrescale : 0
+WeekIndex : 272
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 102.767430829
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Retracting the source.
+EndTime : 2016-11-26 17:40:29
+EndTimeSec : 1480182029
+Exposure : 95250693000
+HighVoltage : 12
+IntegratedActivity : 9968.44079041
+ManualFlag : NONE
+Purity : 1.0
+Quality : NOT-SET
+RunNumber : 7633
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : -3.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-11-26 17:38:52
+StartTimeSec : 1480181932
+TimeInterval : 97
+TriggerPrescale : 0
+WeekIndex : 272
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 102.564497171
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Doing mod1 salt worx
+EndTime : 2016-11-28 18:36:42
+EndTimeSec : 1480358202
+Exposure : 8389008624000
+HighVoltage : 12
+IntegratedActivity : 860618.695763
+ManualFlag : NONE
+Purity : 2.38746085963
+Quality : SUSPECT
+RunNumber : 7638
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-11-28 16:16:51
+StartTimeSec : 1480349811
+TimeInterval : 8391
+TriggerPrescale : 0
+WeekIndex : 272
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 102.554393774
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Still doing mod1 salt worx.
+EndTime : 2016-11-28 21:02:12
+EndTimeSec : 1480366932
+Exposure : 8700884428000
+HighVoltage : 12
+IntegratedActivity : 892633.443408
+ManualFlag : NONE
+Purity : 2.88462701452
+Quality : GOOD
+RunNumber : 7639
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-11-28 18:37:08
+StartTimeSec : 1480358228
+TimeInterval : 8704
+TriggerPrescale : 0
+WeekIndex : 272
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 102.549147692
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : Source retraction.
+EndTime : 2016-11-28 21:05:19
+EndTimeSec : 1480367119
+Exposure : 171636374000
+HighVoltage : 12
+IntegratedActivity : 17843.5516984
+ManualFlag : NONE
+Purity : 1.0
+Quality : NOT-SET
+RunNumber : 7640
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 5
+SourcePositionX : 25.5
+SourcePositionY : 0.39
+SourcePositionZ : -3.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-11-28 21:02:25
+StartTimeSec : 1480366945
+TimeInterval : 174
+TriggerPrescale : 0
+WeekIndex : 272
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 102.468133366
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S8+1.5inch (real s8, not tape)
+EndTime : 2016-11-29 16:10:19
+EndTimeSec : 1480435819
+Exposure : 8996936000
+HighVoltage : 12
+IntegratedActivity : 1229.6176004
+ManualFlag : NONE
+Purity : 1.0
+Quality : NOT-SET
+RunNumber : 7643
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 0
+SourcePositionX : 0.0
+SourcePositionY : 0.0
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-11-29 16:10:07
+StartTimeSec : 1480435807
+TimeInterval : 12
+TriggerPrescale : 0
+WeekIndex : 272
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 102.46327777
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S8+1.5inch (real s8, not tape) With salt worx aronud Mod1
+EndTime : 2016-11-29 18:27:18
+EndTimeSec : 1480444038
+Exposure : 8200240291000
+HighVoltage : 12
+IntegratedActivity : 840403.804273
+ManualFlag : NONE
+Purity : 3.7057784153
+Quality : NOT-SET
+RunNumber : 7644
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 0
+SourcePositionX : 0.0
+SourcePositionY : 0.0
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-11-29 16:10:36
+StartTimeSec : 1480435836
+TimeInterval : 8202
+TriggerPrescale : 0
+WeekIndex : 272
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------
+AverageActivity : 102.457408862
+CampaignIndex : 12
+CampaignLivetime : 1.0
+Comments : S8+1.5inch (real s8, not tape) With salt worx aronud Mod1
+EndTime : 2016-11-29 18:56:42
+EndTimeSec : 1480445802
+Exposure : 1758523978000
+HighVoltage : 12
+IntegratedActivity : 180325.039597
+ManualFlag : NONE
+Purity : 2.3333948185
+Quality : NOT-SET
+RunNumber : 7645
+SourceA : 228
+SourceName : Th-228
+SourcePositionS : 0
+SourcePositionX : 0.0
+SourcePositionY : 0.0
+SourcePositionZ : 0.0
+SourceStrength : weak
+SourceZ : 090
+StartTime : 2016-11-29 18:27:22
+StartTimeSec : 1480444042
+TimeInterval : 1760
+TriggerPrescale : 0
+WeekIndex : 272
+WeekLivetime : 1.0
+EndOfSourceRunInfo : ------------------------------------------------------

@@ -1,0 +1,130 @@
+ProductionName=2016_Xe134_Average_fv_162_10_182
+ProductionTitle=2016_Xe134
+CalibrationTable=energy-mc-based-fit
+CalibrationFlavor=2016-v1-average
+WeeklyCalibration=false
+CutDataLocation=/nfs/slac/g/exo_data6/groups/Energy/data/WIPP/selection/2016_Xe134_newDN/AfterCalibration/fv_162_10_182/Xe134_run_[RunNumber]_tree.root
+PreprocessedMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/preprocessed/2015_Xe134/
+CutMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/selection/2015_Xe134/fv_162_10_182/
+CutMCFilenameExtension=.cut.root
+EndOfDataMCProduction : ------------------------------------------------------
+ProductionName=2016_Xe134_Average_fv_162_10_182_with3dcut
+ProductionTitle=2016_Xe134
+CalibrationFlavor=2016-v1-average
+CalibrationTable=energy-mcbased-fit
+WeeklyCalibration=false
+CutDataLocation=/nfs/slac/g/exo_data4/users/licciard/Xe134/systs/data/WIPP/with3dcut/Xe134_run_[RunNumber]_tree.root
+PreprocessedMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/preprocessed/2015_Xe134/
+CutMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/selection/2015_Xe134/fv_162_10_182/
+CutMCFilenameExtension=.cut.root
+EndOfDataMCProduction : ------------------------------------------------------
+ProductionName=2016_Xe134_Average_fv_162_10_182_no3dcut
+ProductionTitle=2016_Xe134
+CalibrationFlavor=2016-v1-average
+CalibrationTable=energy-mcbased-fit
+WeeklyCalibration=false
+CutDataLocation=/nfs/slac/g/exo_data4/users/licciard/Xe134/systs/data/WIPP/no3dcut/Xe134_run_[RunNumber]_tree.root
+PreprocessedMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/preprocessed/2015_Xe134/
+CutMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/selection/2015_Xe134/fv_162_10_182_no3dcut/
+CutMCFilenameExtension=.cut.root
+EndOfDataMCProduction : ------------------------------------------------------
+ProductionName=2016_Xe134_Weekly_fv_162_10_182
+ProductionTitle=2016_Xe134
+CalibrationFlavor=2016-v1-weekly
+CalibrationTable=energy-mcbased-fit
+WeeklyCalibration=true
+CutDataLocation=/nfs/slac/g/exo_data6/groups/Energy/data/WIPP/selection/2016_Xe134_newDN/AfterCalibration/fv_162_10_182/Xe134_run_[RunNumber]_tree.root
+PreprocessedMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/preprocessed/2015_Xe134/
+CutMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/selection/2015_Xe134/fv_162_10_182/
+CutMCFilenameExtension=.cut.root
+EndOfDataMCProduction : ------------------------------------------------------
+ProductionName=2017_0vbb_Phase1_fv_162_10_182_NoiseLivetime
+ProductionTitle=2017_0vbb
+CalibrationFlavor=2016-v1-weekly
+CalibrationTable=energy-mcbased-fit
+WeeklyCalibration=true
+CutDataLocation=/nfs/slac/g/exo_data6/groups/Energy/data/WIPP/selection/2017_Phase1_v2/AfterCalibration/fv_162_10_182/run_[RunNumber]_tree.root
+PreprocessedMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/preprocessed/2017_Phase1_v2/group2/
+CutMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/selection/2017_Phase1_v2/group2/fv_162_10_182/
+CutMCFilenameExtension=.cut.root
+EndOfDataMCProduction : ------------------------------------------------------
+ProductionName=2017_0vbb_Phase1_fv_162_10_182_N1
+ProductionTitle=2017_0vbb
+CalibrationFlavor=2016-v1-weekly
+CalibrationTable=energy-mcbased-fit
+WeeklyCalibration=true
+CutDataLocation=/nfs/slac/g/exo_data6/groups/Energy/data/WIPP/selection/2017_Phase1_v2/AfterCalibration/fv_162_10_182/run_[RunNumber]_tree.root
+PreprocessedMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/preprocessed/2017_Phase1_v2/noisesamples/
+CutMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/selection/2017_Phase1_v2/noisesamples/fv_162_10_182/for_test_n1/
+CutMCFilenameExtension=.cut.root
+EndOfDataMCProduction : ------------------------------------------------------
+ProductionName=2017_0vbb_Phase1_fv_162_10_182_N2
+ProductionTitle=2017_0vbb
+CalibrationFlavor=2016-v1-weekly
+CalibrationTable=energy-mcbased-fit
+WeeklyCalibration=true
+CutDataLocation=/nfs/slac/g/exo_data6/groups/Energy/data/WIPP/selection/2017_Phase1_v2/AfterCalibration/fv_162_10_182/run_[RunNumber]_tree.root
+PreprocessedMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/preprocessed/2017_Phase1_v2/noisesamples/
+CutMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/selection/2017_Phase1_v2/noisesamples/fv_162_10_182/for_test_n2/
+CutMCFilenameExtension=.cut.root
+EndOfDataMCProduction : ------------------------------------------------------
+ProductionName=2017_0vbb_Phase1_fv_162_10_182_N3
+ProductionTitle=2017_0vbb
+CalibrationFlavor=2016-v1-weekly
+CalibrationTable=energy-mcbased-fit
+WeeklyCalibration=true
+CutDataLocation=/nfs/slac/g/exo_data6/groups/Energy/data/WIPP/selection/2017_Phase1_v2/AfterCalibration/fv_162_10_182/run_[RunNumber]_tree.root
+PreprocessedMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/preprocessed/2017_Phase1_v2/noisesamples/
+CutMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/selection/2017_Phase1_v2/noisesamples/fv_162_10_182/for_test_n3/
+CutMCFilenameExtension=.cut.root
+EndOfDataMCProduction : ------------------------------------------------------
+ProductionName=2017_0vbb_Phase1_fv_162_10_182_N4
+ProductionTitle=2017_0vbb
+CalibrationFlavor=2016-v1-weekly
+CalibrationTable=energy-mcbased-fit
+WeeklyCalibration=true
+CutDataLocation=/nfs/slac/g/exo_data6/groups/Energy/data/WIPP/selection/2017_Phase1_v2/AfterCalibration/fv_162_10_182/run_[RunNumber]_tree.root
+PreprocessedMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/preprocessed/2017_Phase1_v2/noisesamples/
+CutMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/selection/2017_Phase1_v2/noisesamples/fv_162_10_182/for_test_n4/
+CutMCFilenameExtension=.cut.root
+EndOfDataMCProduction : ------------------------------------------------------
+ProductionName=2017_0vbb_Phase1_fv_162_10_182_N5
+ProductionTitle=2017_0vbb
+CalibrationFlavor=2016-v1-weekly
+CalibrationTable=energy-mcbased-fit
+WeeklyCalibration=true
+CutDataLocation=/nfs/slac/g/exo_data6/groups/Energy/data/WIPP/selection/2017_Phase1_v2/AfterCalibration/fv_162_10_182/run_[RunNumber]_tree.root
+PreprocessedMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/preprocessed/2017_Phase1_v2/noisesamples/
+CutMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/selection/2017_Phase1_v2/noisesamples/fv_162_10_182/for_test_n5/
+CutMCFilenameExtension=.cut.root
+EndOfDataMCProduction : ------------------------------------------------------
+ProductionName=2017_0vbb_Phase1_fv_162_10_182_N6
+ProductionTitle=2017_0vbb
+CalibrationFlavor=2016-v1-weekly
+CalibrationTable=energy-mcbased-fit
+WeeklyCalibration=true
+CutDataLocation=/nfs/slac/g/exo_data6/groups/Energy/data/WIPP/selection/2017_Phase1_v2/AfterCalibration/fv_162_10_182/run_[RunNumber]_tree.root
+PreprocessedMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/preprocessed/2017_Phase1_v2/noisesamples/
+CutMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/selection/2017_Phase1_v2/noisesamples/fv_162_10_182/for_test_n6/
+CutMCFilenameExtension=.cut.root
+EndOfDataMCProduction : ------------------------------------------------------
+ProductionName=2017_0vbb_Phase1_fv_162_10_182_N136
+ProductionTitle=2017_0vbb
+CalibrationFlavor=2016-v1-weekly
+CalibrationTable=energy-mcbased-fit
+WeeklyCalibration=true
+CutDataLocation=/nfs/slac/g/exo_data6/groups/Energy/data/WIPP/selection/2017_Phase1_v2/AfterCalibration/fv_162_10_182/run_[RunNumber]_tree.root
+PreprocessedMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/preprocessed/2017_Phase1_v2/noisesamples/
+CutMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/selection/2017_Phase1_v2/noisesamples/fv_162_10_182/for_test_n3/
+CutMCFilenameExtension=.cut.root
+EndOfDataMCProduction : ------------------------------------------------------
+ProductionName=2017_0vbb_Phase1_fv_162_10_182_N245
+ProductionTitle=2017_0vbb
+CalibrationFlavor=2016-v1-weekly
+CalibrationTable=energy-mcbased-fit
+WeeklyCalibration=true
+CutDataLocation=/nfs/slac/g/exo_data6/groups/Energy/data/WIPP/selection/2017_Phase1_v2/AfterCalibration/fv_162_10_182/run_[RunNumber]_tree.root
+PreprocessedMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/preprocessed/2017_Phase1_v2/noisesamples/
+CutMCLocation=/nfs/slac/g/exo_data6/groups/Fitting/data/MC/selection/2017_Phase1_v2/noisesamples/fv_162_10_182/for_test_n4/
+CutMCFilenameExtension=.cut.root
+EndOfDataMCProduction : ------------------------------------------------------

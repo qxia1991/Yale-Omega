@@ -1,0 +1,5 @@
+all:
+	cd make; make
+
+clean:
+	cd make; make clean
